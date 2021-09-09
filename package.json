@@ -1,0 +1,19 @@
+{
+  "name": "eat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "get-urls": "^10.0.0",
+    "node-fetch": "^3.0.0",
+    "puppeteer": "^10.2.0"
+  }
+}
